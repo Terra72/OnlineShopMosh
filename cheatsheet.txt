@@ -1,0 +1,4 @@
+cd E:\programming\angular\hello-world
+
+code .             // we need to put the console into the right directory, this seemed to be the only way to do this?
+ng serve       //start the server up, listening on the specified ip in the launch.json
